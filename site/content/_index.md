@@ -1,7 +1,7 @@
 ---
 title: Fernsehen machen. Mit Profis.
 subtitle: Wenn‘s gut, schnell, unkompliziert, schön werden muss.
-image: img/5e3bb233-9515-4ec5-885a-33f5de66da63.jpeg
+image: img/img_0588.webp
 blurb:
   heading: Why Kaldi?
   text: Kaldi is the coffee store for everyone who believes that great coffee
