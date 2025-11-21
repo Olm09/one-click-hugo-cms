@@ -4,10 +4,13 @@ subtitle: Wenn‘s gut, schnell, unkompliziert, schön werden muss.
 image: img/img_0588.webp
 blurb:
   heading: Wer wir sind
-  text: Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+  text: >-
+    bewo TV ist eine Film- und Fernsehproduktion mit Sitz in Freiburg im
+    Breisgau. Wir arbeiten für alle öffentlich-rechtlichen und privaten
+    Fernsehanstalten. Im Bereich Corporate Film für Firmen verschiedenster
+    Branchen, Institutionen, Kommunen und Verbände sind wir außerdem tätig.
+     
+    Mit unserem Team sind wir in der Lage, bis zu fünf Kamerateams gleichzeitig zu stellen. Damit können wir auch die meisten spontanen und zeitkritischen Drehs problemlos umsetzen. Unsere umfangreiches Kamera-Equipment ermöglichst uns eine flexible und hochwertige Arbeitsweise.
 intro:
   heading: Was wir können
   text: "Schnelle News-Einsätze, Live-Schalten mit der LiveU LU600 oder aufwändige
